@@ -1,5 +1,5 @@
 # Movie Recommendation System
-![Uploading image.png…]()
+![image](https://github.com/AmiraQadry/Movie-Recommendation-System/assets/106974489/f14d4dac-6894-4289-b7b9-c0a702e45fa7)
 
 ## Overview
 
