@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project implements a movie recommendation system using collaborative filtering, is a type of recommendation system that relies on the past behavior of similar users/items to make recommendations, with the KNNBasic algorithm, is one of the algorithms for making recommendations based on collaborative filtering in the Surprise library. KNN stands for k-nearest neighbors, and this algorithm makes recommendations by finding a set of similar items or users in close proximity and predicting ratings based on them, from the Surprise library in Python. 
+This project implements a movie recommendation system using collaborative filtering, is a type of recommendation system that relies on the past behavior of similar users/items to make recommendations, with the KNNBasic algorithm. KNN stands for k-nearest neighbors, and this algorithm makes recommendations by finding a set of similar items or users in close proximity and predicting ratings based on them, from the Surprise library in Python. 
 The system suggests movie recommendations based on user preferences and browsing history.
 
 ## Requirements
